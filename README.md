@@ -25,9 +25,9 @@ Mình dùng GitHub để chia sẻ các dự án và những thử nghiệm tron
 
 | Ngôn ngữ | Mức độ tự đánh giá | Trọng tâm |
 | :--- | :--- | :--- |
-| **JavaScript** | Thành thạo | Ứng dụng & web |
-| **C++** | Thành thạo | Phát triển phần mềm |
-| **C#** | Thành thạo | Ứng dụng & game |
+| **JavaScript** | ★★★★☆ 4/5 | Ứng dụng & web |
+| **C++** | ★★★★☆ 4/5 | Phát triển phần mềm |
+| **C#** | ★★★★☆ 4/5 | Ứng dụng & game |
 
 **Lĩnh vực chính:** Ứng dụng · Game · Web  
 **Kiến thức bổ trợ:** Hệ thống nhúng
