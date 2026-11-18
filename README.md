@@ -25,18 +25,16 @@ Mình dùng GitHub để chia sẻ các dự án và những thử nghiệm tron
 
 | Ngôn ngữ | Mức độ tự đánh giá | Trọng tâm |
 | :--- | :--- | :--- |
-| **JavaScript** | ★★★★☆ 4/5 | Ứng dụng & web |
-| **C++** | ★★★★☆ 4/5 | Phát triển phần mềm |
-| **C#** | ★★★★☆ 4/5 | Ứng dụng & game |
+| **JavaScript** | ★★★★☆ | Ứng dụng & web |
+| **C++** | ★★★★☆ | Phát triển phần mềm |
+| **C#** | ★★★★☆ | Ứng dụng & game |
 
 **Lĩnh vực chính:** Ứng dụng · Game · Web  
 **Kiến thức bổ trợ:** Hệ thống nhúng
 
 ### My space working
 
-**[Galaxy Portfolio ↗](https://hoangtung108.github.io/HoangTung108/)** — dải ngân hà tương tác với sao chuyển động xoắn ốc, sao chổi và hồ sơ kỹ năng. Chọn một ngôi sao hoặc mở **Projects** để xem từng repository.
-
-<sub>Công nghệ sử dụng trong portfolio: React · Three.js · React Three Fiber · Tailwind CSS · Vite · Framer Motion.</sub>
+**[My Portfolio ↗](https://hoangtung108.github.io/HoangTung108/)** 
 
 ---
 
